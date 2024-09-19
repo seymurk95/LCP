@@ -57,7 +57,7 @@ int main()
 		sum+=row.size();
 	}
 	std::cout<<sum<<"\n"; //NE ZAPUSKAY! BUDET OOOOCHEN DOLGO*/
-	const size_t m=1000000;//uluchennaya versiya
+	/*const size_t m=1000000;//uluchennaya versiya
 	const size_t n=10000;
 	std::vector<std::string> v(m);
 	for(size_t i=0;i!=m;++i)
@@ -69,7 +69,7 @@ int main()
 	{
 		sum+=row.size();
 	}
-	std::cout<<sum<<"\n";
+	std::cout<<sum<<"\n";*/
 	
 	
 }
