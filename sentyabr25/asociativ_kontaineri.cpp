@@ -13,7 +13,7 @@ int main()
 		std::cout<<city<<":"<<year<<"\n";
 	}*/
 	
-	/*std::map<std::string,int> data;
+	std::map<std::string,int> data;
 	std::string key;
 	int value;
 	while(std::cin>>key>>value)
@@ -29,7 +29,7 @@ int main()
 	else
 	{
 		std::cout<<"not found\n";
-	}*/
+	}
 	
 	std::map<std::string,int> freqs;
 	std::string word;
